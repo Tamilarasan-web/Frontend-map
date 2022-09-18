@@ -1,0 +1,10 @@
+    .map {
+      height: 400px;
+      width: 100%;
+    }
+
+     
+    .btn-primary-spacing {
+      margin-right: 5px;
+      margin-bottom: 5px !important;
+      }
